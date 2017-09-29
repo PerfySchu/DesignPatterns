@@ -1,2 +1,2 @@
 # DesignPatterns
-study in java design patterns
+study in some basic java design patterns
