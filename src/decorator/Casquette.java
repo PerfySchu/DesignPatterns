@@ -1,9 +1,9 @@
 package decorator;
 
 /**
- * ÎÄ¼şÃû£ºCasquette.java
- * ´´½¨ÈÕÆÚ£º2017/9/28 10:44
- * ËµÃ÷£ºÑ¼ÉàÃ±
+ * æ–‡ä»¶åï¼šCasquette.java
+ * åˆ›å»ºæ—¥æœŸï¼š2017/9/28 10:44
+ * è¯´æ˜ï¼šé¸­èˆŒå¸½
  *
  * @author shupf@szkingdom.com
  */

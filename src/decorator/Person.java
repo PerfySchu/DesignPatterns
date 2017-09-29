@@ -1,9 +1,9 @@
 package decorator;
 
 /**
- * ÎÄ¼şÃû£ºPerson.java
- * ´´½¨ÈÕÆÚ£º2017/9/28 10:35
- * ËµÃ÷£º
+ * æ–‡ä»¶åï¼šPerson.java
+ * åˆ›å»ºæ—¥æœŸï¼š2017/9/28 10:35
+ * è¯´æ˜ï¼š
  *
  * @author shupf@szkingdom.com
  */

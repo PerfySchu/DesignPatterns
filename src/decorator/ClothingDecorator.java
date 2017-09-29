@@ -1,9 +1,9 @@
 package decorator;
 
 /**
- * ÎÄ¼þÃû£ºClothingDecorator.java
- * ´´½¨ÈÕÆÚ£º2017/9/28 10:39
- * ËµÃ÷£º
+ * ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ClothingDecorator.java
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú£ï¿½2017/9/28 10:39
+ * Ëµï¿½ï¿½ï¿½ï¿½
  *
  * @author shupf@szkingdom.com
  */

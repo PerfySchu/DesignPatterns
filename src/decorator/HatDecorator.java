@@ -1,9 +1,9 @@
 package decorator;
 
 /**
- * ÎÄ¼þÃû£ºHatDecorator.java
- * ´´½¨ÈÕÆÚ£º2017/9/28 10:40
- * ËµÃ÷£º
+ * ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½HatDecorator.java
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú£ï¿½2017/9/28 10:40
+ * Ëµï¿½ï¿½ï¿½ï¿½
  *
  * @author shupf@szkingdom.com
  */

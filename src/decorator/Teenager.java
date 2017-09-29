@@ -1,9 +1,9 @@
 package decorator;
 
 /**
- * ÎÄ¼şÃû£ºTeenager.java
- * ´´½¨ÈÕÆÚ£º2017/9/28 10:36
- * ËµÃ÷£º
+ * æ–‡ä»¶åï¼šTeenager.java
+ * åˆ›å»ºæ—¥æœŸï¼š2017/9/28 10:36
+ * è¯´æ˜ï¼š
  *
  * @author shupf@szkingdom.com
  */
